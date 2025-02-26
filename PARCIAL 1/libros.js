@@ -1,0 +1,1 @@
+const libros = JSON.parse(localStorage.getItem("libros")) || [];
